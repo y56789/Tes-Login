@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3fc6c32ed25512c22a6f6240c4123345c92934d8">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f7167fc4087a5f956223ccbb7da6810896be6cc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_11a3ab2171df7160754dcc47c3116456a616f83e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_90bea16b9ae9c82e74e68aac75b860e56ab51774\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b389ffcee34a3aa27556780ebfbbb9b60d6e25f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ec7866e447000749d4b681c2daa722fbb9312118\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0f088740ae873d54e53d30b7f1275722ea597592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_5480dd414721842b9e2828ddca4cb39417b4ccc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_eebbfa497a017df63141293d2b91340041b7c94f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c7e60568a467501a087c210a5bd3da1f6be339fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_68a91da98d9d5ffef09ddb99ebee50e112ec1554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9d899350208fdeb55767e550241fab6acb45acad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3275056f2c27b16e6bb5809d1245de5bbbfeb8ab">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5599e8484977d54142083beca62b420b7f5ce839\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4252bb21378a6db3403511cd36ab785fc00f1a84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_fa138c2338c6575a870283221cb027e7876b79ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_730196e787b330c8cc143b553e81c864e378aadf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_4f4d0f1fed3c5db384d1a881eebf5f939bf59bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\FormLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_865ead60bb9995020449501b4aaedf6028236505\classes.dex" />
+    </item>
+
+</items>

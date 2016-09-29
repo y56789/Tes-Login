@@ -1,0 +1,7 @@
+#Thu Sep 29 20:36:05 ICT 2016
+base.0=C\:\\Users\\MRidwan\\AndroidStudioProjects\\FormLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5599e8484977d54142083beca62b420b7f5ce839
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\MRidwan\\AndroidStudioProjects\\FormLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f7167fc4087a5f956223ccbb7da6810896be6cc0\\classes.dex
+base.1=C\:\\Users\\MRidwan\\AndroidStudioProjects\\FormLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f7167fc4087a5f956223ccbb7da6810896be6cc0
+file.0=C\:\\Users\\MRidwan\\AndroidStudioProjects\\FormLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5599e8484977d54142083beca62b420b7f5ce839\\classes.dex
